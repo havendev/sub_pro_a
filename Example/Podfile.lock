@@ -1,0 +1,16 @@
+PODS:
+  - sub_pro_a (0.1.0)
+
+DEPENDENCIES:
+  - sub_pro_a (from `../`)
+
+EXTERNAL SOURCES:
+  sub_pro_a:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  sub_pro_a: 1eaaf1b3793f7ac6722b05aff6307e7aaab01f38
+
+PODFILE CHECKSUM: 23810c3992bcd4b86327da6ff875a858e5aa1df0
+
+COCOAPODS: 1.5.3

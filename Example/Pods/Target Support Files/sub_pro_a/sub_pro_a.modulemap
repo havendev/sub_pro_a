@@ -1,0 +1,6 @@
+framework module sub_pro_a {
+  umbrella header "sub_pro_a-umbrella.h"
+
+  export *
+  module * { export * }
+}

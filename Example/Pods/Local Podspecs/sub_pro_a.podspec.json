@@ -1,0 +1,27 @@
+{
+  "name": "sub_pro_a",
+  "version": "1.0.0",
+  "summary": "A short description of sub_pro_a.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "git@github.com:havendev/sub_pro_a.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "linhanmin": "linhanmin@uf-club.com"
+  },
+  "source": {
+    "git": "git@github.com:havendev/sub_pro_a.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "sub_pro_a/Classes/**/*",
+  "dependencies": {
+    "vendors": [
+
+    ]
+  }
+}
